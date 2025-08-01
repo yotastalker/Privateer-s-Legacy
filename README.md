@@ -1,6 +1,6 @@
 # Privateer's Legacy
 
-A 2D pirate ship adventure game built with Pygame featuring exploration, combat, and trading mechanics.
+Privateer's Legacy is a retro-inspired 2D open-world pirate adventure game, originally prototyped in Python using Pygame. Sail the high seas, battle enemy ships, trade goods between exotic ports, and build your own pirate legend!
 
 ## Features
 
